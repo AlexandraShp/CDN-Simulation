@@ -1,0 +1,19 @@
+{
+  "campaign_name": "Mini CDN integrated ten-repetition reference campaign",
+  "source": "User-uploaded final_campaign_10repeats.zip",
+  "request_count_per_trace": 200,
+  "repetitions": 10,
+  "base_seed": 42,
+  "network_scenarios": {"low": 1.0, "medium": 3.0, "high": 5.0},
+  "traffic_scenarios_requests_per_second": {"low": 2.0, "medium": 12.0, "high": 24.0},
+  "hybrid_alpha_values": [0.0, 0.25, 0.5, 0.75, 1.0],
+  "server_configs_demo_only": [
+    {"server_id": "A", "capacity_units_per_s": 20.0, "worker_count": 2},
+    {"server_id": "B", "capacity_units_per_s": 40.0, "worker_count": 2},
+    {"server_id": "C", "capacity_units_per_s": 30.0, "worker_count": 2}
+  ],
+  "processing_units_per_request_demo_only": 5.0,
+  "failed_requests": 0,
+  "unserved_requests": 0,
+  "status": "Validated campaign data; demonstration server settings are not yet team-approved"
+}

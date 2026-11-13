@@ -1,0 +1,9 @@
+simpy<5,>=4.1
+pandas<4,>=2.2
+plotly<7,>=5.20
+
+[dashboard]
+streamlit<2,>=1.40
+
+[dev]
+pytest<10,>=8

@@ -1,0 +1,6 @@
+alpha,selected_server_id,selected_score_s,candidate_scores,workload_values_s,data_label
+0.0,B,0.02,"{""A"": 0.25, ""B"": 0.02, ""C"": 0.03}","{""A"": 0.25, ""B"": 0.02, ""C"": 0.03}",SYNTHETIC_WORKLOAD_NOT_SERVER_MEASUREMENTS
+0.25,B,0.03,"{""A"": 0.1925, ""B"": 0.03, ""C"": 0.0475}","{""A"": 0.25, ""B"": 0.02, ""C"": 0.03}",SYNTHETIC_WORKLOAD_NOT_SERVER_MEASUREMENTS
+0.5,B,0.04,"{""A"": 0.135, ""B"": 0.04, ""C"": 0.065}","{""A"": 0.25, ""B"": 0.02, ""C"": 0.03}",SYNTHETIC_WORKLOAD_NOT_SERVER_MEASUREMENTS
+0.75,B,0.049999999999999996,"{""A"": 0.0775, ""B"": 0.049999999999999996, ""C"": 0.08250000000000002}","{""A"": 0.25, ""B"": 0.02, ""C"": 0.03}",SYNTHETIC_WORKLOAD_NOT_SERVER_MEASUREMENTS
+1.0,A,0.02,"{""A"": 0.02, ""B"": 0.06, ""C"": 0.1}","{""A"": 0.25, ""B"": 0.02, ""C"": 0.03}",SYNTHETIC_WORKLOAD_NOT_SERVER_MEASUREMENTS

@@ -1,0 +1,8 @@
+# Simulation and analytics dependencies.
+simpy>=4.1,<5
+pandas>=2.2,<4
+plotly>=5.20,<7
+streamlit>=1.40,<2
+
+# Test dependency.
+pytest>=8,<10
